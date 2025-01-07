@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Brave Search clean up
+! Title: Google Search clean up
 ! Description: Remove ads, websites promoting PUPs, malware, phishing and scams from Google Search results, along with other annoyances
 ! Expires: 1 day
 ! Last updated: 2025-1-6

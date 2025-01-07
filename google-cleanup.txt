@@ -7,4 +7,4 @@
 ! Homepage: https://github.com/ChaseKnowlden/google-search-blocklist
 ! Issues url: https://github.com/ChaseKnowlden/google-search-blocklist/issues
 
-google.com##.MjjYud:has(a[href="://www.joinhoney.com"])
+google.*###rso .MjjYud a[href*="joinhoney.com"]:upward(.MjjYud)
